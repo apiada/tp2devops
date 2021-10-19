@@ -1,5 +1,0 @@
-jobs:
-  build:
-    steps:
-    - name: Build with Maven
-      run: mvn clean verify --file /path/to/pom.xml
