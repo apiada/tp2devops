@@ -19,7 +19,7 @@ Les notions suivantes seront abordées :
 - Le mappage de volume pour bénéficier de la persistance
 - L'utilisation d'entrypoint (mis à disposition par l'image)
 - L'utilisation de docker-compose
-- La configuration très basique d'un reverse proxy
+- La configuration très basique d'un reverse proxy   
 
 ## Base de donnée 
 
